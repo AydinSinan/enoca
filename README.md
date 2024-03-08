@@ -1,8 +1,6 @@
 # enoca
 # Enoca Java Challenge Projesi
 
-Bu proje, Enoca'nın Java geliştirici adaylarına yönelik bir teknik sınav örneği olarak oluşturulmuştur.
-
 ## Proje Amaçları
 
 - Müşterilerin çevrimiçi alışveriş yaptıkları bir platformun temel işlevselliğini içerir.
