@@ -10,10 +10,12 @@
 ## Teknolojiler
 
 - Java 17
-- Spring Boot 3.2.3 Maven
+- Spring Boot (3.2.3 version)
+- Maven
 - Spring Data JPA
 - MySQL veritabanı (yerel geliştirme için)
 - Docker (MySQL ayağa kaldırmak için)
+
 ## Proje Yapısı
 
 - **entity**: Veritabanı tablolarını temsil eden JPA entity sınıfları.
@@ -30,7 +32,6 @@
 2. Proje dizinine gidin: `cd enoca-java-challenge`
 3. Maven bağımlılıklarını yükleyin: `mvn install`
 4. Uygulamayı başlatın: `mvn spring-boot:run`
-5. Tarayıcınızda Swagger UI'ı görüntülemek için: `http://localhost:8080/swagger-ui.html`
 
 ## API Endpoint'leri
 
