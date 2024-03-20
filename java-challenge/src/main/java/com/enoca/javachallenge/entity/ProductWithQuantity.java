@@ -12,5 +12,4 @@ import lombok.Setter;
 @NoArgsConstructor
 public class ProductWithQuantity {
     private ProductDTO product;
-    private int quantity; // Sepetteki ürün miktarı
 }

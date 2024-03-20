@@ -20,7 +20,6 @@ public class Product {
     private long id;
     private String name;
     private double price;
-//    private int stockQuantity;
-    private int quantity; // Ürün miktarı
+    private int quantity;
 
 }
